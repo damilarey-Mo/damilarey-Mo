@@ -1,4 +1,5 @@
 <h1 align="center"> Hi there, I'm Darey! 👋 </br> </h1>
+<h3 align="left"> 💻 Web & IT Professional | Full Stack Developer | IT Manager </h3>
 <h4 align="center"> Turning imagination into reality 🚀 </br> </h4> 
 
 <p align="center">
@@ -14,7 +15,7 @@ With 5 years of hands-on experience in web development, IT management, and techn
 My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation. ⚡</p>
 
 
-<h3 align="center"> 💻 Web & IT Professional | Full Stack Developer | IT Manager </h3>
+
 
 ## Tech Stack 💻
 #### Languages
