@@ -9,7 +9,7 @@
 
 
 <h5> Welcome to my GitHub profile!
-With 5 years of hands-on experience in web development, IT management, and technical leadership, I specialize in building scalable, optimized, and secure solutions for businesses.
+With 5 years of hands-on experience in web development, IT management, and technical leadership. </br> I build scalable, optimized, secure business solutions.
 My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation.</br> ⚡</h5>
 
 <h5> 
@@ -36,14 +36,15 @@ Problem Solving: Identifying issues and creating tailored solutions.
 
 
 ## Tech Stack 💻
+
 #### Languages
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-000?style=for-the-badge&logo=dart&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
-![Lua](https://img.shields.io/badge/-Lua-000?style=for-the-badge&logo=lua)
+![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
 
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
@@ -68,7 +69,7 @@ Problem Solving: Identifying issues and creating tailored solutions.
 #### Database/State
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
+
 
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
