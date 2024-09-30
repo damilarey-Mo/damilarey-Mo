@@ -1,10 +1,8 @@
 <h1 align="center"> Hi there, I'm Darey! 👋 </br> </h1>
 <h3 align="left"> 💻 Web & IT Professional | Full Stack Developer | IT Manager </h3>
-<h4 align="center"> Turning imagination into reality 🚀 </br> </h4> 
+<h4 align="left"> Turning imagination into reality 🚀 </br> </h4> 
 
-<p align="center">
-
- <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<p align="center"> <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/crypticlarkson" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/oluwadamilare-m-2362b4249/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/oluwadamilareclarkson" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
