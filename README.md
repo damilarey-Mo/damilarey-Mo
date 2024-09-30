@@ -5,12 +5,12 @@
 <p align="center"> <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/crypticlarkson" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/oluwadamilare-m-2362b4249/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://instagram.com/oluwadamilareclarkson" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+<a href="https://instagram.com/oluwadamilareclarkson" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a> </br> </p>
 
 
-<p> Welcome to my GitHub profile!
+<h3> Welcome to my GitHub profile!
 With 5 years of hands-on experience in web development, IT management, and technical leadership, I specialize in building scalable, optimized, and secure solutions for businesses.
-My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation. ⚡</p>
+My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation. ⚡</h3>
 
 
 
