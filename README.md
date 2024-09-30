@@ -12,7 +12,27 @@
 With 5 years of hands-on experience in web development, IT management, and technical leadership, I specialize in building scalable, optimized, and secure solutions for businesses.
 My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation. ⚡</h5>
 
+<h4> 
+🚀 Expertise & Technologies:
+🌟 Full Stack Development: MERN Stack, WordPress, Webpack.
 
+🌟 E-commerce: Shopify, WooCommerce
+
+🌟 SEO & Performance Optimization
+
+🌟 Data Analytics & Business Intelligence Tools
+
+🌟 Cybersecurity & IT Infrastructure
+
+What I Do:
+Web Development: Crafting clean, responsive, and user-friendly websites.
+
+IT Consulting: Providing strategic IT solutions for enhanced operational efficiency.
+
+Technical Leadership: Leading cross-functional teams to success.
+
+Problem Solving: Identifying issues and creating tailored solutions.
+</h4>
 
 
 ## Tech Stack 💻
@@ -44,8 +64,6 @@ My work combines creativity and technology to solve complex challenges, enhance 
 ![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
 ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 #### Database/State
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
