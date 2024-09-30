@@ -40,11 +40,12 @@ Problem Solving: Identifying issues and creating tailored solutions.
 #### Languages
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![Dart](https://img.shields.io/badge/dart-000?style=for-the-badge&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-000?style=for-the-badge&logo=dart&logoColor=red)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=swift)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
 
 #### JS Framework/Library
 ![Next JS](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
