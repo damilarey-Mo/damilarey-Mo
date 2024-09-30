@@ -10,9 +10,9 @@
 
 <h5> Welcome to my GitHub profile!
 With 5 years of hands-on experience in web development, IT management, and technical leadership, I specialize in building scalable, optimized, and secure solutions for businesses.
-My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation. ⚡</h5>
+My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation.</br> ⚡</h5>
 
-<h4> 
+<h5> 
 🚀 Expertise & Technologies:
 🌟 Full Stack Development: MERN Stack, WordPress, Webpack.
 
@@ -32,7 +32,7 @@ IT Consulting: Providing strategic IT solutions for enhanced operational efficie
 Technical Leadership: Leading cross-functional teams to success.
 
 Problem Solving: Identifying issues and creating tailored solutions.
-</h4>
+</h5>
 
 
 ## Tech Stack 💻
