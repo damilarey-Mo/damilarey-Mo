@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Darey! 👋 </br> </h1>
-<h3 align="left"> 💻 Web & IT Professional | Full Stack Developer | IT Manager </h3>
+<h2 align="left"> 💻 Web & IT Professional | Full Stack Developer | IT Manager </h2>
 <h4 align="left"> Turning imagination into reality 🚀 </br> </h4> 
 
 <p align="center"> <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
@@ -8,9 +8,9 @@
 <a href="https://instagram.com/oluwadamilareclarkson" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a> </br> </p>
 
 
-<h3> Welcome to my GitHub profile!
+<h5> Welcome to my GitHub profile!
 With 5 years of hands-on experience in web development, IT management, and technical leadership, I specialize in building scalable, optimized, and secure solutions for businesses.
-My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation. ⚡</h3>
+My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation. ⚡</h5>
 
 
 
