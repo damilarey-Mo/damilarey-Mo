@@ -1,10 +1,6 @@
 <h1 align="center"> Hi there, I'm Darey! 👋 </br> </h1>
 <h4 align="center"> Turning imagination into reality 🚀 </br> </h4> 
 
-<p> Welcome to my GitHub profile!
-With 5 years of hands-on experience in web development, IT management, and technical leadership, I specialize in building scalable, optimized, and secure solutions for businesses.
-My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation. ⚡</p>
-
 <p align="center">
 
  <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
@@ -12,7 +8,13 @@ My work combines creativity and technology to solve complex challenges, enhance 
 <a href="https://www.linkedin.com/in/oluwadamilare-m-2362b4249/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/oluwadamilareclarkson" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
-<h1 align="center"> 💻 Web & IT Professional | Full Stack Developer | IT Manager </h1>
+
+<p> Welcome to my GitHub profile!
+With 5 years of hands-on experience in web development, IT management, and technical leadership, I specialize in building scalable, optimized, and secure solutions for businesses.
+My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation. ⚡</p>
+
+
+<h3 align="center"> 💻 Web & IT Professional | Full Stack Developer | IT Manager </h3>
 
 ## Tech Stack 💻
 #### Languages
