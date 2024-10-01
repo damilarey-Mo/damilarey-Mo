@@ -13,7 +13,7 @@ With 5 years of hands-on experience in web development, IT management, and techn
 My work combines creativity and technology to solve complex challenges, enhance user experience, and drive innovation.</br> ⚡</h5>
 
 <h5> 
-🚀 Expertise & Technologies:
+🚀 Expertise & Technologies: </br>
 🌟 Full Stack Development: MERN Stack, WordPress, Webpack.
 
 🌟 E-commerce: Shopify, WooCommerce
