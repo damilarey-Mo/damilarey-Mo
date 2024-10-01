@@ -93,15 +93,13 @@ Problem Solving: Identifying issues and creating tailored solutions.
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
 
-#### DevOPS/
-![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
-![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
-
 #### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-
+#### E-commerce
+![WordPress](https://img.shields.io/badge/-Wordpress-000?style=for-the-badge&logo=wordpress)
+![Shopify](https://img.shields.io/badge/-Shopify-000?style=for-the-badge&logo=shopify)
 
 
 
