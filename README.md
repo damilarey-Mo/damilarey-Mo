@@ -111,9 +111,8 @@ Problem Solving: Identifying issues and creating tailored solutions.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 
 ## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-> Check Commits below, GitHub stats are sometimes inaccurate due to caching.
+![Stats](https://github-readme-stats.vercel.app/api?username=damilarey-Mo&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damilarey-Mo&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 ## GitHub Streaks 🔥
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
