@@ -62,7 +62,7 @@ Problem Solving: Identifying issues and creating tailored solutions.
 #### Frontend Framework
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
-![Next](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next)
+![Next](https://img.shields.io/badge/-Next-000?style=for-the-badge&logo=next)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
@@ -112,7 +112,7 @@ Problem Solving: Identifying issues and creating tailored solutions.
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
 
 ## Current GitHub Stats 📊
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damilarey-Mo&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+![Streaks](http://github-readme-streak-stats.herokuapp.com?user=damilarey-Mo&theme=jolly&date_format=j%20M%5B%20Y%5D) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damilarey-Mo&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 
 ### Thanks for Visiting my GitHub Profile!
