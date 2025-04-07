@@ -53,7 +53,6 @@ Problem Solving: Identifying issues and creating tailored solutions.
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Node JS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js)
 ![Threejs](https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js)
-![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
@@ -62,7 +61,7 @@ Problem Solving: Identifying issues and creating tailored solutions.
 #### Frontend Framework
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
-![Next](https://img.shields.io/badge/-Next-000?style=for-the-badge&logo=next)
+![Next](https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![MUI](https://img.shields.io/badge/-MUI-000?style=for-the-badge&logo=mui)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
