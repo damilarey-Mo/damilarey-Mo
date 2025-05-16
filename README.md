@@ -2,7 +2,7 @@
 <h2 align="left"> 💻 Web & IT Professional | Full Stack Developer | IT Manager </h2>
 <h4 align="left"> Turning imagination into reality 🚀 </br> </h4> 
 
-<p align="center"> <a href="https://damilarey-moshood.vercel.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=arc&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<p align="center"> <a href="https://dareymoshood.vercel.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=arc&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/crypticlarkson" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=X&logoColor=ffffff&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/oluwadamilaremo/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=blue&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/oluwadamilareclarkson" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a> </br> </p>
